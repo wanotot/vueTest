@@ -7,7 +7,7 @@ export default {
   },
   data() {
     return {
-      msg: 'from parent'
+      msg: 'who are you'
     }
   }
 }
